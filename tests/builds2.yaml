@@ -1,0 +1,4 @@
+builds:
+- name: approach_important
+  tasks:
+  - map_gray_centaurs
